@@ -1,0 +1,4 @@
+C:\Users\Win 8\Desktop\BTC v1\BTC1\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\Win 8\Desktop\BTC v1\BTC1\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\Win 8\Desktop\BTC v1\BTC1\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Win 8\Desktop\BTC v1\BTC1\CapaLogica\obj\Debug\CapaLogica.pdb

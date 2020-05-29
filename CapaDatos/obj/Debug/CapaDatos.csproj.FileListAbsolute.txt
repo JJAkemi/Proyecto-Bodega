@@ -1,0 +1,4 @@
+C:\Users\Win 8\Desktop\BTC v1\BTC1\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Win 8\Desktop\BTC v1\BTC1\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Win 8\Desktop\BTC v1\BTC1\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Win 8\Desktop\BTC v1\BTC1\CapaDatos\obj\Debug\CapaDatos.pdb
